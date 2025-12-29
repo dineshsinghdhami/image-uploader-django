@@ -1,6 +1,6 @@
-# Image Uploader Django 🖼️
+# Your Photo Your Fame Django 🖼️
 
-A simple and modern **Django-based web app** to upload, view, and manage images online.
+A simple and modern **Django-based web app** to upload, view, like and manage images online.
 
 ---
 
@@ -21,11 +21,12 @@ A simple and modern **Django-based web app** to upload, view, and manage images 
 
 ## 🚀 Features
 
-* Upload images easily with drag-and-click or file selection  
-* Gallery view of all uploaded images with upload date  
-* Fully responsive UI for desktop and mobile  
-* Admin panel for managing images and users  
-* Simple, clean, and modern design  
+* Upload images easily with drag-and-click or file selection. 
+* Gallery view of all uploaded images with upload date.  
+* Fully responsive UI for desktop and mobile.  
+* Admin panel for managing images and users.
+* allows visitors to like the photos. 
+* Simple, clean, and modern design.  
 
 ---
 
